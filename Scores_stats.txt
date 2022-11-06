@@ -1,0 +1,4 @@
+The number of scores in the list is 20
+The average of scores in the list is 2.96
+Maximum Score is : 4.00
+Minimum Score is : 1.37
